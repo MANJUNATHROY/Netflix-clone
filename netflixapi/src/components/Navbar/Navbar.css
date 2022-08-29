@@ -1,0 +1,17 @@
+.logo{
+	position:fixed;
+	left: 20px;
+	width:100px;
+}
+
+.avatar{
+	position: fixed;
+	right: 20px;
+	width:30px;
+}
+.navbar{
+	position:fixed;
+	background-color: #111;
+	width:100%;
+	padding-top: 5px;
+}
